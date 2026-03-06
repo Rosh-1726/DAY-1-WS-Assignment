@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Heading and Paragraph</title>
+</head>
+
+<body>
+
+<h1>About Me</h1>
+<h2>Introduction</h2>
+
+<p>My name is Roshani. I am a Computer Science Engineering student.</p>
+
+<br>
+
+<h3>My Hobby</h3>
+
+<p>My hobby is coding and learning new technologies.</p>
+
+<hr>
+
+<h4>My Interest</h4>
+
+<p>I like programming, problem solving and improving my skills.</p>
+
+<h5>My Goal</h5>
+
+<p>My goal is to become a successful software engineer.</p>
+
+<h6>Thank You</h6>
+
+</body>
+</html>
